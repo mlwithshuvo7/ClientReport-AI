@@ -1,0 +1,6 @@
+{
+  "name": "ClientReport AI",
+  "description": "Turn Your Spreadsheet Into Business Intelligence. Clean data, calculate rigorous analytics, create visualizations, and generate professional PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
